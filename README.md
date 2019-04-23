@@ -1,6 +1,6 @@
 # DevNetCreate2019
 
-You can run the notebooks directly at Google Collab (Google account required). Click on one of the links below, then File > Run in Playground mode. Make sure to connect to a hosted runtime (Menu Connect at the top-right portion > Connect to hosted runtime).
+You can run the notebooks directly at Google Collab (Google account required). Click on one of the links below, then under the File menu > Open in Playground. Make sure to connect to a hosted runtime (Menu Connect at the top-right portion > Connect to hosted runtime).
 
 #### Links:
 
